@@ -1,2 +1,3 @@
-# first-ripos-check
-This is my First repository Author By Mohib
+# first-ripos-checker
+This is my first repository Author By Mohib
+
